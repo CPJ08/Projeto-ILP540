@@ -40,11 +40,9 @@
             <p class="h5"><u>Confirmar Senha:<br></u></H5><input placeholder="Confirmar sua senha" type="password" name="csenha" id="confirmsenha" required>
         </label>
         <br><br>
-        <button class="button">Cancelar</button>
-        <button class="button">Cadastrar</button>
+	<a href="Login.php"><button class="button">Cancelar</button></a>
+	<a href="Logado.php"><button class="button">Cadastrar</button></a>
         <br>
-        <a href="">Esqueceu a Senha?</a>
-        
     </div> 
     <script src="js/jquery-3.3.1.slim.min.js"></script>
     <script src="js/popper.min.js"></script>
