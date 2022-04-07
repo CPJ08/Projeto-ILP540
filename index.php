@@ -27,9 +27,9 @@
         </label>
         <br>
 	    <a href="Cadastro.php"><button class="button">Cadastrar</button></a>
-        <button class="button">Logar</button>
+	    <a href="Logado.php"><button class="button">Logar</button></a>
         <br>
-        <a href=""><p>Esqueceu a Senha?</p></a>
+        <a href="esqueceu.php"><p>Esqueceu a Senha?</p></a>
         
     </div> 
     <script src="js/jquery-3.3.1.slim.min.js"></script>
