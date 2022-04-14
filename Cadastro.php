@@ -43,7 +43,7 @@
                     <p>Confirmar Senha:</p>
                     <input placeholder="Confirmar sua senha" type="password" name="csenha" id="confirmsenha" required>
                 </label><br>
-                <a href="Cadastro.html"><input type="button" value="Cadastrar"></a>
+                <a href="Cadastro.php"><input type="button" value="Cadastrar"></a>
                 <input type="reset" Value="Cancelar">
             </form>
 
