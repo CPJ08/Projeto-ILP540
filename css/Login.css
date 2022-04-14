@@ -1,0 +1,11 @@
+p {
+    text-decoration: underline;
+}
+
+.minhasImagens{
+    width: 100%;
+}
+.principal{
+    width: 1200px;
+    margin: 0 auto;
+}

@@ -1,0 +1,24 @@
+#divbordaCadastro
+ {
+    justify-content: center;
+    background: linear-gradient(#87ceeb);
+    padding-top: 30px;
+    width: 500px;
+    height: 603px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    display: inline-block;
+}
+#imgsec{
+    
+    display: inline;
+}
+.principal{
+    width: 900px;
+    margin: 0 auto;
+}
+.minhasImagens{
+    width: 100%;
+}
