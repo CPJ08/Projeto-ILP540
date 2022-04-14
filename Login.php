@@ -29,7 +29,7 @@
                         <p>Senha:</p>
                         <input placeholder="Digite sua senha" type="password" name="senha" id="senha">
                     </label><br>
-                    <a href="Cadastro.html"><input type="button" value="Cadastrar"></a>
+                    <a href="Cadastro.php"><input type="button" value="Cadastrar"></a>
                     <input type="submit" Value="Logado"><br>
                     <a href="esqueceu.php"><p>Esqueceu a Senha?</p></a>
                 </form>
