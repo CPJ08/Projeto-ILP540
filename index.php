@@ -26,8 +26,8 @@
             <p class="h5">Senha:</p><input placeholder="Digite sua senha" type="password" name="senha" id="senha">
         </label>
         <br>
-	    <a href="Cadastro.html"><button class="button">Cadastrar</button></a>
-	    <a href="Logado.html"><button class="button">Logar</button></a>
+	    <a href="Cadastro.php"><button class="button">Cadastrar</button></a>
+	    <a href="Logado.php"><button class="button">Logar</button></a>
         <br>
         <a href="esqueceu.php"><p>Esqueceu a Senha?</p></a>
         
