@@ -21,6 +21,37 @@ svg{
     
 
 }
+.imge{
+    position: relative;
+    top: 20px;
+    right: 80px;
+}
+.imgl{
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+.imgresultado{
+    position: relative;
+    top: 80px;
+    right: 70px;
+}
+.imgagendamento{
+    position: relative;
+    top: 80px;
+    left: 70px;
+}
+.imgbanco{
+    position: relative;
+    top: 160px;
+    right: 55px;
+}
+.imgatendimento{
+    position: relative;
+    top: 160px;
+    left: 55px;
+}
+
 label{
     position: relative;
     bottom:50px;
