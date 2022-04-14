@@ -40,8 +40,8 @@
             <p class="h5"><u>Confirmar Senha:<br></u></H5><input placeholder="Confirmar sua senha" type="password" name="csenha" id="confirmsenha" required>
         </label>
         <br><br>
-	<a href="Login.html"><button class="button">Cancelar</button></a>
-	<a href="Logado.html"><button class="button">Cadastrar</button></a>
+	<a href="Login.php"><button class="button">Cancelar</button></a>
+	<a href="Logado.php"><button class="button">Cadastrar</button></a>
         <br>
     </div> 
     <div class="col-6"><img class="imgsec" src="Imagem/medicina.jpg"  alt="Imagem Medicina1." width="500px"></div>
