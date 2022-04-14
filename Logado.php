@@ -13,7 +13,7 @@
 <body>
     <div>
     <a href="EditarDados.php"><img src="Imagem/conta.png" class="imge" alt="Imagem ContaEditar" width="130px" border-radius="50px"></a>
-    <a href="Login.php"><img src="Imagem/logout.png" class="imgl" alt="Imagem Logout" width="70px" border-radius="50px"></a>
+    <a href="index.php"><img src="Imagem/logout.png" class="imgl" alt="Imagem Logout" width="70px" border-radius="50px"></a>
     <br>
     <a href="Resultado.php"><img src="Imagem/resultado.png" class="imgresultado" alt="Imagem Resultado Exame" width="100px" border-radius="50px"></a>
     <a href="Agendamento.php"><img src="Imagem/agendamento.png" class="imgagendamento" alt="Imagem Agendamento" width="100px" border-radius="50px"></a>
