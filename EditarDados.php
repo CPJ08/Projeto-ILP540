@@ -34,8 +34,8 @@
         <br><br>
         <button class="button">Trocar Senha</button>
         <br><br>
-        <a href="Logado.html"><button class="button">Cancelar</button></a>
-        <a href="Logado.html"><button class="button">Editar</button></a>
+        <a href="Logado.php"><button class="button">Cancelar</button></a>
+        <a href="Logado.php"><button class="button">Editar</button></a>
         <br>
         <a href="">Esqueceu a Senha?</a>
         
