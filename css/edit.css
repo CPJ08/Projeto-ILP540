@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: #323232;
+    border: none;
+
+}
+body{
+background-image: url('back3.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 1700px;
+/*background-position: -200px;*/
+}
+#login-container{
+    background-color: #FFF;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30px;
+    margin-top: 10vh;
+    border-radius: 10px;
+    text-align:center;
+}
